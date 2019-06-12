@@ -1,0 +1,25 @@
+{
+  "name": "linkWebGenerator",
+  "version": "1.0.0",
+  "description": "网页生成器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynameislzk/linkWebGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mynameislzk/linkWebGenerator/issues"
+  },
+  "homepage": "https://github.com/mynameislzk/linkWebGenerator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "view": "^1.1.1",
+    "vue": "^2.6.10"
+  }
+}
